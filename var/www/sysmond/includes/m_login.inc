@@ -20,10 +20,10 @@
 
 <?php
 
-$host = localhost;
-$user = sotos;
-$pass = qwerty8;
-$db_name = sotos_sysmond;
+$host = host;
+$user = username;
+$pass = password;
+$db_name = db_name;
 $tbl_name1 = md5sums_safe;
 $tbl_name2 = date_md5sums_safe;
 $tbl_name3 = md5sums_unsafe;

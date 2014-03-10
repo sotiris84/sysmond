@@ -21,8 +21,8 @@
 
 #include "mysql_mine.h"
 
-const char host[] = "localhost";
-const char user[] = "sotos";
-const char password[] = "qwerty8";
-const char database[] = "sotos_sysmond";
+const char host[] = "host";
+const char user[] = "username";
+const char password[] = "password";
+const char database[] = "db_name";
 
