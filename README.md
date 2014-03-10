@@ -4,12 +4,12 @@ It requires user input as it does nothing on its own.  User input might be from 
 
 This is my university thesis. It is a work in progress. Sysmond is being developed and tested in Ubuntu.
 
-HOW TO RUN
-1) You need the LAMP stack
-2) Install the build-essentials
-3) Install the mysql development library
-4) Create a database and a user with access to that database.
-5) Enter these information in src/mysql.c and var/www/sysmond/includes/m_login.inc
-6) make
-7 ./sysmond with root privileges
+HOW TO RUN<br>
+1) You need the LAMP stack<br>
+2) Install the build-essentials<br>
+3) Install the mysql development library<br>
+4) Create a database and a user with access to that database.<br>
+5) Enter these information in src/mysql.c and var/www/sysmond/includes/m_login.inc<br>
+6) make<br>
+7) ./sysmond with root privileges<br>
 
