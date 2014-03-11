@@ -1,4 +1,4 @@
-AuthUserFile /home/sotos/.htpasswd
+AuthUserFile /path/to/.htpasswd
 AuthType Basic
 AuthName "Protected Space"
-Require valid-user sotos
+Require valid-user username
